@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    tools:context="com.aptitude.sidsa.quiz.Initialfrag"
+    android:background="@drawable/questionback">
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/blue_flag"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+
+
+
+    <!--<FrameLayout-->
+        <!--android:layout_width="wrap_content"-->
+
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_centerVertical="true"-->
+        <!--android:layout_toRightOf="@+id/button8"-->
+        <!--android:layout_marginLeft="50dp"-->
+        <!--android:id="@+id/frameLayout2">-->
+
+    <ProgressBar
+            android:id="@+id/progressbar1_timerview"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:indeterminate="false"
+            android:progressDrawable="@drawable/circleshape1_timerview"
+            android:visibility="gone" />
+
+
+    <ProgressBar
+            android:id="@+id/progressbar_timerview"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+
+            android:layout_gravity="right|center_vertical"
+            android:indeterminate="false"
+            android:progressDrawable="@drawable/circleshape2_timerview"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/textView_timerview_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:alpha="0.6"
+        android:gravity="center"
+        android:text="00:00"
+        android:textColor="@color/primary_material_dark"
+        android:textSize="30dp"
+
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="REVIEW"
+        android:background="@drawable/mybutton1"
+        android:id="@+id/button15"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+
+    <!--</FrameLayout>-->
+
+
+</RelativeLayout>
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Question 1 :"
+            android:layout_below="@+id/progressBar"
+            android:paddingTop="10dp"
+            android:paddingLeft="5dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#40C4FF"
+            android:layout_above="@+id/textView4"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1] What is the currency of America?"
+            android:textSize="22sp"
+            android:layout_below="@+id/textView5"
+            android:paddingTop="10dp"
+            android:paddingLeft="5dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#F9A825"
+            android:layout_above="@+id/radioGroup"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:id="@+id/imgview"
+            />
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/radioGroup"
+            android:layout_above="@+id/button6"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="35dp">
+
+            <RadioButton
+                android:id="@+id/radioButton7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/radioButtont"
+                android:layout_weight="1"
+                android:checked="false"
+                android:text="New RadioButton"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                app:buttonTint="@android:color/white" />
+
+            <RadioButton
+                android:id="@+id/radioButton8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/radioButtons"
+                android:layout_weight="1"
+                android:checked="false"
+                android:text="New RadioButton"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                app:buttonTint="@android:color/white" />
+
+            <RadioButton
+                android:id="@+id/radioButton9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/radioButtonf"
+                android:layout_weight="1"
+                android:checked="false"
+                android:text="New RadioButton"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                app:buttonTint="@android:color/white" />
+
+            <RadioButton
+                android:id="@+id/radioButton10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/rad"
+                android:layout_weight="1"
+                android:bufferType="spannable"
+                android:checked="false"
+                android:text="New RadioButton"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                app:buttonTint="@android:color/white" />
+        </RadioGroup>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:layout_gravity="center_horizontal" />
+
+
+        <Button
+    android:id="@+id/button2"
+        style="?android:attr/borderlessButtonStyle"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:onClick="radio_qw"
+    android:text="SUBMIT"
+    android:gravity="center_horizontal"
+    android:textColor="#0091EA"
+    android:textSize="20sp"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/mybutton"
+            android:text="NEXT"
+            android:visibility="visible"
+            android:textSize="18sp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_gravity="right" />
+
+            <Button
+                android:id="@+id/button6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/mybutton"
+                android:text="PREV"
+                android:textSize="18sp"
+                android:layout_alignBaseline="@+id/button7"
+                android:layout_alignBottom="@+id/button7"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>
+
+    </ScrollView>
+
+

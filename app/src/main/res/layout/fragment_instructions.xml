@@ -1,0 +1,70 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.aptitude.sidsa.quiz.Instructions"
+    android:launchMode = "singleInstance"
+    android:background="@drawable/questionback">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView2"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="350dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/cardView"
+                android:layout_gravity="center_horizontal|top"
+                android:layout_marginTop="25dp"
+                android:text="INSTRUCTIONS"
+                android:textAlignment="center"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#F9A825"
+                android:textSize="30sp" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/textView9"
+                android:layout_marginTop="66dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="1.Read all the questions properly \n\n 2.Do not SWITCH THE APP or PRESS THE HOME BUTTON. That would lead to the submission of the test. \n\n 3.Use of calculator is not allowed. \n\n 4.The duration of the test is 60 minutes and the timer begins once the start button is pressed.\n\n 5.You can press the flag icon to bookmark a question. \n\n 6.On clicking the SUBMIT TEST BUTTON in the review section , the test would be submitted. \n\n 7.After completing the test, click on the SUBMIT ONLINE button to submit the score on the database by ensuring proper internet connectivity. \n\n 8.Answer the individual question by clicking the SUBMIT button."
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#FFFFFF" />
+
+
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="START"
+                android:background="@drawable/mybutton"
+                android:layout_marginTop="30dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="26dp" />
+
+        </LinearLayout>
+        </ScrollView>
+</RelativeLayout>

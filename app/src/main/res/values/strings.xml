@@ -1,0 +1,491 @@
+<resources>
+    <string name="app_name" formatted="false">Quiz</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" formatted="false">Hello blank fragment</string>
+
+
+
+       <string-array name="tab_names" formatted="false">
+              <item>"Out of the given alternatives select the alternative which best expresses the meaning of the word - Proclivity"</item>
+              <item>"A. Anguish"</item>
+              <item>"B. Abstinence"</item>
+              <item>"C. Asperity"</item>
+              <item>"D. Leaning"</item>
+
+              <item>"Out of the given alternatives select the word opposite in meaning to the word- Entice"</item>
+              <item>"A. Rinse"</item>
+              <item>"B. Repulse"</item>
+              <item>"C. Divulge"</item>
+              <item>"D. Apportion"</item>
+
+        <item>" One of given alternatives select the  option which best expresses the meaning of given idiom/ phrase - To shoot one's bolt."
+        </item>
+              <item>"A. To be very angry"</item>
+              <item>"B. To do nothing"</item>
+              <item>"C. Use one's resources"</item>
+              <item>" D. None of the above"</item>
+
+              <item>" Out of given alternatives select the word which is correctly spelt. "</item>
+              <item>"A. Horrindous "</item>
+              <item>"B. Horrendous "</item>
+              <item>"C. Horrenduous "</item>
+              <item>"D. Horrandous "</item>
+
+        <item>" Fill in the blank with a suitable word from the options given below to make a meaningful sentence. \n
+Large sections of Kashmiri youth are ___________ with the exposed undesirable activities of the Hurriyat and their children enjoying affluence and luxury while Kashmiris in general are left to cope with huge suffering and abject poverty. "</item>
+              <item>"A. envied "</item>
+              <item>"B. disenchanted "</item>
+              <item>"C. reneged "</item>
+              <item>"D. devised "</item>
+
+        <item>" Read the sentence to find out whether there is any grammatical or idiomatic error in it. The error, if any, will be in one part of the sentence. Choose the part. \n
+The fickle customer/ changes his order/ several times."</item>
+              <item>"A. The fickle customer "</item>
+              <item>"B. changes his order "</item>
+              <item>"C. several times "</item>
+              <item>"D. No error "</item>
+
+              <item>" Choose the pair that best represents a similar relationship to the one expressed in the given pair of words. \n Dominance : Hegemony "</item>
+              <item>"A. romance : sympathy"</item>
+              <item>"B. furtherance :melancholy "</item>
+              <item>"C. independence : autonomy "</item>
+              <item>"D. tolerance : philanthropy"</item>
+
+              <item>" Choose one of the given alternatives to complete the sentence and make it meaningful.\n  ______________________ the more they remain the same. "</item>
+              <item>"A. The less the dynamism "</item>
+              <item>"B. The more things change "</item>
+              <item>"C. The more pronounced the transformation "</item>
+              <item>"D. The more the merrier "</item>
+
+        <item>" Fill in the blank with suitable pair of words from the options given below to make a meaningful sentence. \n
+ The telephone symbolises that awkard ______________ in all communication technologies; while it _____________________ to bring us together, it keeps us apart."</item>
+              <item>"A. paradox, needs "</item>
+              <item>"B. irony, intends "</item>
+              <item>"C. paradox, tries "</item>
+              <item>"D. irony wishes "</item>
+
+              <item>" Pointing to a photograph, Rekha says to Lalli, "The girl in the photo is the second daughter of the wife of only son of the grandmother of my younger sister." \n How is the girl in the photograph related to Rekha?"</item>
+              <item>"A. Niece "</item>
+              <item>"B. Younger Sister"</item>
+              <item>"C. Mother "</item>
+              <item>"D. Sister"</item>
+
+
+              <item>" One morning Uday and Vishal were talking to each other face to face at a crossing. If Vishal's shadow was exactly to the left of Uday, which direction was Uday facing? "</item>
+              <item>"A. East "</item>
+              <item>"B. West "</item>
+              <item>"C. North"</item>
+              <item>"D. South"</item>
+
+              <item>" In the past, consumers would rarely walk into an ice cream store and order low-fat ice cream. But that isn't the case today. An increasing health consciousness combined with a much bigger selection of tasty low-fat foods in all categories has made low-fat ice cream a very profitable item for ice cream store owners. This paragraph best supports the statement that "</item>
+              <item>" A. low-fat ice cream produces more revenue than other low-fat foods. "</item>
+              <item>"B. ice cream store owners would be better off carrying only low-fat ice cream. "</item>
+              <item>"C. ice cream store owners no longer think that low-fat ice cream is an unpopular item. "</item>
+              <item>"D. low-fat ice cream is more popular than other kinds of ice cream."</item>
+
+              <item>" In a certain code language, if the value of CONTRACT = 56 and ‘GROWTH’ = 30, then what is the value of DISTRIBUTION? "</item>
+              <item>"a. 130 "</item>
+              <item>"b. 132 "</item>
+              <item>"c. 140 "</item>
+              <item>"d. 142 "</item>
+
+              <item>" Find out the wrong number in the series.445, 221, 109, 46, 25, 11, 4 "</item>
+              <item>"A.221"</item>
+              <item>"B.109"</item>
+              <item>"C.46 "</item>
+              <item>"D.25"</item>
+
+              <item>"14. Look at this series: 8, 6, 9, 23, 87 , ___ What number should come next? "</item>
+              <item>"A. 128"</item>
+              <item>"B. 226"</item>
+              <item>"C. 324"</item>
+              <item>"D. 429"</item>
+
+              <item formatted="false">" A towel, when bleached, was found to have lost 20% of its length and 10% of its breadth. The percentage of decrease in area is:"</item>
+              <item formatted="false">"A. 10% "</item>
+              <item formatted="false">"B. 08% "</item>
+              <item formatted="false">"C. 20% "</item>
+              <item formatted="false">"D. 28% "</item>
+
+
+              <item>" A train 800 metres long is running at a speed of 78 km/hr. If it crosses a tunnel in 1 minute, then the length of the tunnel (in meters) is "</item>
+              <item>"A. 1300 "</item>
+              <item>"B. 360 "</item>
+              <item>"C. 500 "</item>
+              <item>"D. 540 "</item>
+
+              <item>" In how many ways can the letters of the word, ‘MACHINE’ be arranged so that the vowels occupy only the odd positions in every arrangement ? "</item>
+              <item>"a. 210 "</item>
+              <item>"b. 576   "</item>
+              <item>"c.144 "</item>
+              <item>"d. 456 "</item>
+
+              <item>" The difference between simple and compound interests compounded annually on a certain sum of money for 2 years at 4% per annum is Re. 1. The sum (in Rs.) is: "</item>
+              <item>"A. 625 "</item>
+              <item>"B. 750 "</item>
+              <item>"C. 125"</item>
+              <item>"D. 250 "</item>
+
+              <item>" 3 pumps working 8 hours a day can empty a tank in 2 days. How many hours a day must 4 pumps work to empty the tank in 1 day? "</item>
+              <item>"A.9 "</item>
+              <item>"B.10 "</item>
+              <item>"C.11 "</item>
+              <item>"D.12 "</item>
+
+              <item>" Ravi's brother is 3 years senior to him. His father was 28 years of age when his sister was born while his mother was 26 years of age when he was born. If his sister was 4 years of age when his brother was born, what were the ages of Ravi's father and mother respectively when his brother was born ? "</item>
+              <item>"A. 32 years, 29 years "</item>
+              <item>"B. 32 years, 23 years"</item>
+              <item>"C. 35 years, 29 years "</item>
+              <item>"D. 35 years, 33 years "</item>
+
+              <item>" David gets on the elevator at the 11th floor of a building and rides up at the rate of 57 floors per minute. At the same time, Albert gets on an elevator at the 51st floor of the same building and rides down at the rate of 63 floors per minute. If they continue travelling at these rates, then at which floor will their paths cross ?"</item>
+              <item>"A. 19 "</item>
+              <item>"B. 28 "</item>
+              <item>"C. 30 "</item>
+              <item>"D. 37 "</item>
+
+              <item>" In the time in which the second hand covers 3960 degrees, how many degrees does the hour hand move? "</item>
+              <item>"A. 11 "</item>
+              <item>"B. 5.5 "</item>
+              <item>"C. 22 "</item>
+              <item>"D. 55   "</item>
+
+              <item>" A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day. "</item>
+              <item>"A. 25 "</item>
+              <item>"B. 15 "</item>
+              <item>"C. 18 "</item>
+              <item>"D. 30 "</item>
+
+              <item>" If log 27 = 1.431, then the value of log 9 is: "</item>
+              <item>"A. 0.934 "</item>
+              <item>"B. 0.945 "</item>
+              <item>"C.0.954 "</item>
+              <item>"D.0.958 "</item>
+
+              <item>" A motorboat, whose speed in 15 km/hr in still water goes 30 km downstream and comes back in a total of 4 hours 30 minutes. The speed of the stream (in km/hr) is: "</item>
+              <item>"A. 4 "</item>
+              <item>"B. 5 "</item>
+              <item>"C. 6 "</item>
+              <item>"D. 10 "</item>
+
+              <item>" A bag contains 4 white, 5 red and 6 blue balls. Three balls are drawn at random from the bag. The probability that all of them are red, is: "</item>
+              <item>"A. 1/22 "</item>
+              <item>"B. 3/22 "</item>
+              <item>"C. 2/91  "</item>
+              <item>"D. 2/71 "</item>
+
+              <item>"(x^b/x^c)^(b+c-a).(x^c/x^a)^(c+a-b).(x^a/x^b)^(a+b-c)"</item>
+              <item>"A. x^abc"</item>
+              <item>"B. 1"</item>
+              <item>"C. x^(ab+bc+ca)"</item>
+              <item>"D. x^(a+b+c)"</item>
+
+              <item>" The L.C.M. of two numbers is 48. The numbers are in the ratio 2 : 3. Then sum of the number is: "</item>
+              <item>"A. 28 "</item>
+              <item>"B. 32 "</item>
+              <item>"C. 40 "</item>-
+              <item>"D. 64"</item>
+
+        <item>" A, B and C jointly thought of engaging themselves in a business venture. It was
+agreed that A would invest Rs. 6500 for 6 months, B, Rs. 8400 for 5 months and C,
+Rs. 10,000 for 3 months. A wants to be the working member for which, he was to
+receive 5% of the profits. The profit earned was Rs. 7400. Calculate the share of B
+in the profit."</item>
+              <item>"A. Rs. 1900 "</item>
+              <item>"B. Rs. 2660 "</item>
+              <item>"C. Rs. 2800 "</item>
+                <item>"D. Rs. 2840"</item>
+
+
+              <item>" The Indian to beat the computers in mathematical wizardry is"</item>
+              <item>"A. Ramanujan"</item>
+              <item>"B. Rina Panigrahi"</item>
+              <item>"C. Raja Ramana"</item>
+              <item>"D. Shakuntala Devi"</item>
+
+              <item>" Which two companies agree to merge to form India's largest telecom company?"</item>
+              <item>"A.Vodafone and idea"</item>
+              <item>"B.Aircel and idea"</item>
+              <item>"C.Reliance and aircel"</item>
+              <item>"D.Vodafone and aircel"</item>
+
+              <item>" Devaluation of a currency means"</item>
+              <item>"A. reduction in the value of a currency vis-a-vis major internationally traded currencies"</item>
+              <item>"B. permitting the currency to seek its worth in the international market"</item>
+              <item>"C. fixing the value of the currency in conjunction with the movement in the value of a basket of pre-determined currencies"</item>
+              <item>"D. fixing the value of currency in multilateral consultation with the IMF, the World Bank and major trading partners"</item>
+
+              <item>" The purpose of choke in tube light is ?"</item>
+              <item>"A. To decrease the current"</item>
+              <item>"B. To increase the current"</item>
+              <item>"C. To decrease the voltage momentarily"</item>
+              <item>"D. To increase the voltage momentarily"</item>
+        <item>" What is the number of satellites of Jupiter ?"</item>
+              <item>"(A)15"</item>
+              <item>"(B)23"</item>
+              <item>"(C)32"</item>
+              <item>"(D)63"</item>
+
+              <item>"  Yard : Inch :: Quart : ?"</item>
+              <item>"A. gallon "</item>
+              <item>"B. ounce "</item>
+              <item>"C. Milk"</item>
+              <item>"D. liquid"</item>
+
+              <item>"  Change the voice of the given sentence : The police will have caught the culprit."</item>
+              <item>"(A)The culprit will have caught by the police."</item>
+              <item>"(B)The culprit have been caught by the police"</item>
+              <item>"(C)The culprit will have been caught by the police."</item>
+              <item>"(D)The culprit would have been caught by the police
+"</item>
+
+       </string-array>
+
+    <string-array name="tab_names2" formatted="false">
+        <item>” One of the given alternatives select the alternative which best expresses the meaning of the given word – Altercation”</item>
+        <item>"A. Candidness"</item>
+        <item>"B.  Cogency"</item>
+        <item>"C. Strangeness"</item>
+        <item>"D. Discord"</item>
+        <item>” Out of the given alternatives select the word opposite in meaning to the given word - Exult”</item>
+        <item>"A.  Trivialize"</item>
+        <item>"B. Ameliorate "</item>
+        <item>"C. Commiserate </item>
+        <item>"D.  Damage "</item>
+        <item>” Out of given alternatives, choose the word which can be submitted for the given words/ sentence. Lacking  of courage or confidence </item>
+        <item>"A.  Strident "</item>
+        <item>"B.  Trepid "</item>
+        <item>"C. Rancid "</item>
+        <item>"D. Pertinent "</item>
+        <item>” Out of given alternatives select the word with is currently spelt ”</item>
+        <item>"A.  Soveriegnty "</item>
+        <item>"B.  Sovereignity "</item>
+        <item>"C.  Sovereignty"</item>
+        <item>"D. Soveraignty"</item>
+<item>” Out of given alternatives, choose the word which can be submitted for the given words/ sentence.
+Pay off old scores
+”</item>
+        <item>"A.  To pay the bill "</item>
+        <item>"B.  To run away "</item>
+        <item>"C.  To take revenge "</item>
+        <item>"D. To borrow money "</item>
+        <item>” Investors are investing heavily/ in mobiles because they believe/ the demand for mobiles/ would soon supersede laptop demand./ No error. ”</item>
+        <item>"A.   Investors are investing heavily "</item>
+        <item>"B.   in mobiles because they believe "</item>
+        <item>"C.  the demand for mobiles "</item>
+        <item>"D. would soon supersede for laptop demand "</item>
+<item>” Identify the correct part of speech of the underlined word in the given sentence.
+Well, I don t think I will be home before 6.”</item>
+        <item>"A.  interjection "</item>
+        <item>"B.  preposition "</item>
+        <item>"C.  pronoun "</item>
+        <item>"D.  adverb "</item>
+
+
+
+
+        <item>” Vinay does not play cricket ,and______ does Yashwant”</item>
+        <item>"A.  so"</item>
+        <item>"B.   also"</item>
+        <item>"C.  either"</item>
+        <item>"D.  neither"</item>
+        <item>” I said to him, "Why are you working so hard?  ”</item>
+        <item>"A.   I asked him why he was working so hard."</item>
+        <item>"B.   I asked him why was he working so hard"</item>
+        <item>"C.  I asked him why had he been working so hard."</item>
+        <item>"D.   asked him why he had been working so hard"</item>
+        <item>” Extreme old age when a man behaves like a foo l”</item>
+        <item>"A.  Imbecility"</item>
+        <item>"B.   Senility"</item>
+        <item>"C.  Dotage"</item>
+        <item>"D.  Superannuation"</item>
+
+
+
+<item> “Statement: Should import duty on all the electronic goods be dispensed with?
+Arguments:
+I.	No. This will considerably reduce the income of the government and will adversely affect the developmental activities.
+No. The local manufacturers will not be able to compete with the foreign manufacturers who are technologically far superior.”</item>
+        <item>"A. Only argument I is strong "</item>
+        <item>"B. Only argument II is strong "</item>
+        <item>"C. Either I or II is strong "</item>
+        <item>"D. Neither I nor II is strong "</item>
+        <item formatted="false">”If A x B means A is to the south of B; A + B means A is to the north of B; A % B means A is to the east of B; A - B means A is to the west of B; then in P % Q + R - S, S is in which direction with respect to Q?”</item>
+        <item>"A. South-West "</item>
+        <item>"B. South-East "</item>
+        <item>"C. North-East "</item>
+        <item>"D. North-West "</item>
+        <item>” Embarrassed is to humiliated as frightened is to”</item>
+        <item>"A. terrified "</item>
+        <item>"B. agitated "</item>
+        <item>"C. courageous "</item>
+        <item>"D. reckless "</item>
+<item>” Statements: All bags are cakes. All lamps are cakes.
+
+Conclusions:I.	Some lamps are bags.
+            II. No lamp is bag.</item>
+        <item>"A. Only conclusion I follows "</item>
+        <item>"B. Only conclusion II follows "</item>
+        <item>"C. Either I or II follows "</item>
+        <item>"D. Neither I nor II follows "</item>
+        <item>” Which word does NOT belong with the others?”</item>
+        <item>"A. Book "</item>
+        <item>"B. Index "</item>
+        <item>"C. Glossary"</item>
+        <item>"D. chapter"</item>
+        <item>”Look at this series: 7, 10, 8, 11, 9, 12, ... What number should come next?”</item>
+
+        <item>"A.7"</item>
+        <item>"B.10"</item>
+        <item>"C.12"</item>
+        <item>"D.13"</item>
+
+
+        <item>” SCD, TEF, UGH, ____, WKL</item>
+        <item>"A. CMN "</item>
+        <item>"B. UJI "</item>
+        <item>"C. VIJ "</item>
+        <item>"D. IJT</item>
+        <item>” Which word does NOT belong with the others?”</item>
+        <item>"A. unimportant "</item>
+        <item>"B. trivial "</item>
+        <item>"C. insignificant "</item>
+        <item>"D. familiar </item>
+        <item>”A man walked diagonally across a square lot. Approximately, what was the percent saved by not walking along the edges?”</item>
+        <item>"A. 20"</item>
+        <item>"B. 24"</item>
+        <item>"C. 30"</item>
+        <item>"D. 33"</item>
+        <item formatted="false">" A train can travel 50% faster than a car. Both start from point A at the same time and reach point B 75 kms away from A at the same time. On the way, however, the train lost about 12.5 minutes while stopping at the stations. The speed of the car is: "</item>
+        <item>"A. 100 kmph"</item>
+        <item>"B. 110 kmph"</item>
+        <item>"C. 120 kmph"</item>
+        <item>"D. 130 kmph"</item>
+        <item>” In how many different ways can the letters of the word MATHEMATICS be arranged so that the vowels always come together? "</item>
+        <item>"A. 10080"</item>
+        <item>"B. 4989600"</item>
+        <item>"C. 120960"</item>
+        <item>"D. None of these "</item>
+        <item>” If the simple interest on a sum of money for 2 years at 5% per annum is Rs. 50, what is the compound interest on the same at the same rate and for the same time? "</item>
+        <item>"A. Rs. 51.25"</item>
+        <item>"B. Rs. 52"</item>
+        <item>"C. Rs. 54.25"</item>
+        <item>"D. Rs. 60"</item>
+        <item>” Twenty women can do a work in sixteen days. Sixteen men can complete the same work in fifteen days. What is the ratio between the capacity of a man and a woman? "</item>
+        <item>"A. 3 : 4"</item>
+        <item>"B. 4 : 3"</item>
+        <item>"C. 5 : 3"</item>
+        <item>"D. Data inadequate "</item>
+        <item>” A person s present age is two-fifth of the age of his mother. After 8 years, he will be one-half of the age of his mother. How old is the mother at present? "</item>
+        <item>"A. 32 years "</item>
+        <item>"B. 36 years "</item>
+        <item>"C. 40 years "</item>
+        <item>"D. 48 years "</item>
+        <item>” A box contains 2 white balls, 3 black balls and 4 red balls. In how many ways can 3 balls be drawn from the box, if at least one black ball is to be included in the draw? "</item>
+        <item>"A. 32 "</item>
+        <item>"B. 48 "</item>
+        <item>"C. 64"</item>
+        <item>"D. 96 "</item>
+
+        <item>” The reflex angle between the hands of a clock at 10.25 is: "</item>
+        <item>"A. 180º "</item>
+        <item>"B. 192.5 º "</item>
+        <item>"C. 195 º "</item>
+        <item>"D. 197.5º "</item>
+        <item>” P can complete a work in 12 days working 8 hours a day. Q can complete the same work in 8 days working 10 hours a day. If both P and Q work together, working 8 hours a day, in how many days can they complete the work?” </item>
+        <item>"A. 60/11"</item>
+        <item>"B. 61/11 º "</item>
+        <item>"C. 71/11 "</item>
+        <item>"D.  72/11 "</item>
+        <item>” A man rows to a place 48 km distant and come back in 14 hours. He finds that he can row 4 km with the stream in the same time as 3 km against the stream. The rate of the stream is:”</item>
+        <item>"A. 1 km/hr "</item>
+        <item>"B. 1.5 km/hr "</item>
+        <item>"C. 2 km/hr "</item>
+        <item>"D. 2.5 km/hr "</item>
+        <item formatted="false">” Seats for Mathematics, Physics and Biology in a school are in the ratio 5 : 7 : 8. There is a proposal to increase these seats by 40%, 50% and 75% respectively. What will be the ratio of increased seats? ”</item>
+        <item>"A. 2 : 3 : 4"</item>
+        <item>"B. 6 : 7 : 8"</item>
+        <item>"C. 6 : 8 : 9"</item>
+        <item>"D. None of these "</item>
+
+        <item formatted="false">” A man invested Rs. 4455 in Rs. 10 shares quoted at Rs. 8.25. If the rate of dividend be 12%, his annual income is:</item>
+
+        <item>"A. Rs. 207.40"</item>
+        <item>"B. Rs. 534.60"</item>
+        <item>"C. Rs. 648"</item>
+        <item>"D. Rs. 655.60"</item>
+        <item>” The H.C.F. of two numbers is 11 and their L.C.M. is 7700. If one of the numbers is 275, then the other is: “</item>
+
+        <item>"A. 279"</item>
+        <item>"B. 283"</item>
+        <item>"C. 308"</item>
+        <item>"D. 318"</item>
+        <item>” A, B and C enter into a partnership in the ratio (7/2):(4/3):(6/5). After 4 months, A increases his share 50%. If the total profit at the end of one year be Rs. 21,600, then share of B in the profit is:”</item>
+
+
+        <item>"A. Rs. 2100"</item>
+        <item>"B. Rs. 2400"</item>
+        <item>"C. Rs. 3600"</item>
+        <item>"D. Rs. 4000"</item>
+        <item>” In a regular week, there are 5 working days and for each day, the working hours are 8. A man gets Rs. 2.40 per hour for regular work and Rs. 3.20 per hours for overtime. If he earns Rs. 432 in 4 weeks, then how many hours does he work for  ? ”</item>
+        <item>"A. 160"</item>
+        <item>"B. 175"</item>
+        <item>"C. 180"</item>
+        <item>"D. 195"</item>
+
+        <item>” who is the current incumbent chief justice of India ”</item>
+        <item>"A.  Justice T. S. Thakur"</item>
+        <item>"B.   Justice J. S. Khehar"</item>
+        <item>"C.  Justice Dipak Misra"</item>
+        <item>"D.  Justice R. M. Lodha"</item>
+        <item>” NSDL, National Securities Depository Limited deals with which of the following?”</item>
+        <item>"A.Electronic shares"</item>
+        <item>"B.Cash "</item>
+        <item>"C.Debentures "</item>
+        <item>"D.None of these "</item>
+        <item>” How is GNP different from GDP?  ”</item>
+        <item>"A.GNP includes net income from abroad"</item>
+        <item>"B.GNP includes export income "</item>
+        <item>"C.GNP includes direct taxes "</item>
+        <item>"D.None of these"</item>
+        <item>” India’s first-ever railways disaster management centre will come up in which city? ”</item>
+        <item>"A.Kolkata "</item>
+        <item>"B.Bengaluru"</item>
+        <item>"C.Lucknow"</item>
+        <item>"D.Pune"</item>
+
+
+
+
+
+
+
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

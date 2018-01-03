@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "363283528727",
+    "firebase_url": "https://quiz-4d3d4.firebaseio.com",
+    "project_id": "quiz-4d3d4",
+    "storage_bucket": "quiz-4d3d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363283528727:android:60cda8558ae7c2be",
+        "android_client_info": {
+          "package_name": "com.aptitude.sidsa.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363283528727-91ppa4f78gfs333e5kmd46uf7qeqgt9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUkBPyZDvNKBkHi3OMN7xzJL-a_mx2lQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
